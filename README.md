@@ -14,7 +14,7 @@
 ---
 
 ## Screenshots
-![Weather Dashboard](https://github.com/Abhranil2004/klimate-weather/blob/general/klimate%20ss.png)  
+![Weather Dashboard](https://github.com/Abhranil2004/klimate-weather/blob/general/klimate%20sss.png)  
 *Screenshot of the sleek weather dashboard.*
 
 ---
